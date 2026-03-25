@@ -1,24 +1,8 @@
-# 严肃声明：现在、未来都不会有商业版本，所有代码全部开源
+# FastAPI Vben Admin
 
-**「我喜欢写代码，乐此不疲」**  
-**「我喜欢做开源，以此为乐」**
+基于 FastAPI + Vben Admin 的企业级后台管理系统。
 
-我 🐶 在上海艰苦奋斗，早中晚在 top3 大厂认真搬砖，夜里为开源做贡献。
-
-如果这个项目让你有所收获，记得 Star 关注哦，这对我是非常不错的鼓励与支持。
-
-## 🐶 新手必读
-
-- nodejs >= v20.19.0（推荐 v22 / v24） && pnpm >= 10.32.1（强制使用 pnpm）
-- 演示地址【Vue3 + element-plus】：<http://dashboard-vue3.yudao.iocoder.cn>
-- 演示地址【Vue3 + vben5(ant-design-vue)】：<http://dashboard-vben.yudao.iocoder.cn>
-- 演示地址【Vue2 + element-ui】：<http://dashboard.yudao.iocoder.cn>
-- 启动文档：<https://doc.iocoder.cn/quick-start/>
-- 视频教程：<https://doc.iocoder.cn/video/>
-
-## 🐯 平台简介
-
-**芋道**，以开发者为中心，打造中国第一流的快速开发平台，全部开源，个人与企业可 100% 免费使用。
+> 本项目前端借鉴自 [芋道 ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) 开源项目，感谢芋道团队的开源贡献。
 
 - 采用最新 [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) v5.7.0 实现
 - 支持 [Ant Design Vue](https://www.antdv.com/) | [Element Plus](https://element-plus.org/zh-CN/) | [Naive UI](https://www.naiveui.com/) | [TDesign](https://tdesign.tencent.com/) 多种免费开源的中后台模版，具备如下特性：
@@ -32,10 +16,6 @@
 - **权限**：内置完善的动态路由权限生成方案
 - **组件**：二次封装了多个常用的组件
 - **示例**：内置丰富的示例
-
-## [外包项目请联系【非项目需求请勿扫码，非客服，不解答项目问题】](https://www.shuduokeji.com?yudao)
-
-![alt 软件定制开发 数舵科技](.gitee/image/wx-xingyu.png)
 
 ## 技术栈
 
@@ -64,15 +44,7 @@
 
 ## 🔥 后端架构
 
-支持 Spring Boot、Spring Cloud 两种架构：
-
-① Spring Boot 单体架构：<https://doc.iocoder.cn>
-
-![架构图](/.gitee/image/common/ruoyi-vue-pro-architecture.png)
-
-② Spring Cloud 微服务架构：<https://cloud.iocoder.cn>
-
-![架构图](/.gitee/image/common/yudao-cloud-architecture.png)
+本项目后端采用 FastAPI 框架，详见 [fastapi-admin](https://github.com/XIE7654/fastapi-admin)
 
 ## 内置功能
 
