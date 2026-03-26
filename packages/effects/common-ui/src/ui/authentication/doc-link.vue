@@ -9,39 +9,32 @@ defineOptions({
     <div class="mt-4 flex items-center justify-between">
       <span class="border-input w-[35%] border-b dark:border-gray-600"></span>
       <span class="text-muted-foreground text-center text-xs uppercase">
-        萌新必读
+        相关链接
       </span>
       <span class="border-input w-[35%] border-b dark:border-gray-600"></span>
     </div>
 
     <div class="mt-4 flex w-full justify-between">
       <a
-        href="https://doc.iocoder.cn/"
+        href="https://github.com/XIE7654/fastapi-admin"
         target="_blank"
         class="text-primary hover:text-primary/80 text-sm"
       >
-        📚 开发指南
+        📚 后端仓库
       </a>
       <a
-        href="https://doc.iocoder.cn/video/"
+        href="https://github.com/XIE7654/fastapi-vben"
         target="_blank"
         class="text-primary hover:text-primary/80 text-sm"
       >
-        🔥 视频教程
+        🎨 Vben前端
       </a>
       <a
-        href="https://www.iocoder.cn/Interview/good-collection/"
+        href="https://github.com/XIE7654/fastapi-ele"
         target="_blank"
         class="text-primary hover:text-primary/80 text-sm"
       >
-        ⚡ 面试手册
-      </a>
-      <a
-        href="http://static.yudao.iocoder.cn/mp/xinyu370.jpeg"
-        target="_blank"
-        class="text-primary hover:text-primary/80 text-sm"
-      >
-        🤝 外包咨询
+        🎨 Element前端
       </a>
     </div>
   </div>
