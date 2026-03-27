@@ -7,7 +7,6 @@
 - 采用最新 [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) v5.7.0 实现
 - 支持 [Ant Design Vue](https://www.antdv.com/) | [Element Plus](https://element-plus.org/zh-CN/) | [Naive UI](https://www.naiveui.com/) | [TDesign](https://tdesign.tencent.com/) 多种免费开源的中后台模版，具备如下特性：
 
-
 - **最新技术栈**：使用 Vue3、Vite8 等前端前沿技术开发
 - **TypeScript**: 应用程序级 JavaScript 的语言
 - **主题**: 提供多套主题色彩，可配置自定义主题
@@ -51,7 +50,6 @@
 
 系统内置多种多种业务功能，可以用于快速你的业务系统：
 
-
 - 通用模块（必选）：系统功能、基础设施
 - 通用模块（可选）：工作流程、支付系统、数据报表、会员中心
 - 业务系统（按需）：ERP 系统、CRM 系统、商城系统、微信公众号、AI 大模型
@@ -80,14 +78,12 @@
 | 🚀 | 应用管理 | 管理 SSO 单点登录的应用，支持多种 OAuth2 授权方式 |
 | 🚀 | 地区管理 | 展示省份、城市、区镇等城市信息，支持 IP 对应城市 |
 
-
 ### 工作流程
-
 
 基于 Flowable 构建，可支持信创（国产）数据库，满足中国特色流程操作：
 
 | BPMN 设计器 | 钉钉/飞书设计器 |
-| --- | --- |
+| ----------- | --------------- |
 
 > 历经头部企业生产验证，工作流引擎须标配仿钉钉/飞书 + BPMN 双设计器！！！
 >
@@ -153,7 +149,6 @@
 | 🚀 | 日志服务 | 轻量级日志中心，查看远程服务器的日志 |
 | 🚀 | 单元测试 | 基于 JUnit + Mockito 实现单元测试，保证功能的正确性、代码的质量等 |
 
-
 ### 数据报表
 
 |     | 功能       | 描述                                 |
@@ -181,18 +176,14 @@
 
 演示地址：<https://doc.iocoder.cn/mall-preview/>
 
-
 ### ERP 系统
 
 演示地址：<https://doc.iocoder.cn/erp-preview/>
-
 
 ### CRM 系统
 
 演示地址：<https://doc.iocoder.cn/crm-preview/>
 
-
 ### AI 大模型
 
 演示地址：<https://doc.iocoder.cn/ai-preview/>
-
